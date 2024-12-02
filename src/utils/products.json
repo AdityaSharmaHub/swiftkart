@@ -1,0 +1,28 @@
+[
+    {
+      "name": "Wireless Bluetooth Earbuds",
+      "price": 2499,
+      "image": "https://images.unsplash.com/photo-1627989580309-bfaf3e58af6f?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "name": "Smart Fitness Band",
+      "price": 3999,
+      "image": "https://images.unsplash.com/photo-1705777299734-00fb234ca7b5?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "name": "Portable Power Bank",
+      "price": 1599,
+      "image": "https://images.unsplash.com/photo-1706275399494-fb26bbc5da63?q=80&w=1780&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "name": "Gaming Mouse",
+      "price": 3299,
+      "image": "https://images.unsplash.com/photo-1627745214193-2bcefc681524?q=80&w=1965&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "name": "Wireless Keyboard",
+      "price": 2899,
+      "image": "https://images.unsplash.com/photo-1662830857519-2f9b28e3b4ac?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    }
+  ]
+  
